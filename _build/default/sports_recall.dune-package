@@ -1,0 +1,4 @@
+(lang dune 3.23)
+(name sports_recall)
+(sections (lib .) (bin ../../bin) (doc ../../doc/sports_recall))
+(files (lib (META dune-package opam)) (bin (sports_recall)) (doc (README.md)))

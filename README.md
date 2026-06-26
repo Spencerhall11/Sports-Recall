@@ -1,6 +1,6 @@
 # Sports-Recall
 OCaml tool to pull a team roster and season records from TheSportsDB with a name input, has local SQLite Caching
-Built as a first OCaml project to develop familiarity with the language's type system, module architecture, and async IO — part of a broader polyglot systems portfolio.
+Built as a first OCaml project to develop familiarity with the language's type system, module architecture, and async IO, part of a broader polyglot systems portfolio.
 
 ## Features
 
